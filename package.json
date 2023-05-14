@@ -1,0 +1,27 @@
+{
+  "name": "adgame",
+  "version": "0.0.1",
+  "description": "A simple adventure game",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyxie98/adventure-game.git"
+  },
+  "author": "Nyxie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyxie98/adventure-game/issues"
+  },
+  "dependencies": {
+    "raylib": "*",
+    "ts-node": "^10.9.1"
+  },
+  "homepage": "https://github.com/Nyxie98/adventure-game#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
